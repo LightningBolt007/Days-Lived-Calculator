@@ -1,5 +1,5 @@
 
-//exercicers.cpp -- programing exercices 
+//Days Lived Calculator -- Calculates How Many Days Have You Lived To This Day
 
 #include <iostream>
 using namespace std;
